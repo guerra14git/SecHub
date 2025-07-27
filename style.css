@@ -1,6 +1,9 @@
-body{
-  padding: 25px;
-}
+
+body {
+      background: url('./') no-repeat center center fixed;
+      background-size: cover;
+      padding: 25px;
+    }
 .title {
 	color: #5fa3a3;
 }
